@@ -27,8 +27,6 @@
 
 - :zap: In my free time, I solve problems on Codewars and read about algorithms and data structures.
 
-- :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat&logo=Linkedin&logoColor=white)[](https://www.linkedin.com/in/leonardo-loureiro-/)
-
 
 ### :hammer_and_wrench: Languages and Tools :
 

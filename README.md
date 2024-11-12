@@ -23,7 +23,7 @@
 
 - :telescope: I’m working as a front-end freelancer and contributing to open-source projects.
 
-- :seedling: Currently studying React.
+- :zap: Creating websites using .NET and Angular.
 
 - :zap: In my free time, I solve problems on Codewars and read about algorithms and data structures.
 
